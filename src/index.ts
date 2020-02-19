@@ -1,1 +1,1 @@
-export { default as createMemo } from './createMemo';
+export { default as useEvent } from './useEvent';
