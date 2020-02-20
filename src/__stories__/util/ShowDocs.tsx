@@ -2,7 +2,7 @@ import * as React from 'react';
 
 const h = React.createElement;
 
-const ShowDocs = (props) => h(
+const ShowDocs = (props:any) => h(
   'div',
   {},
   h('div', {
